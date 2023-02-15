@@ -20,6 +20,7 @@
 </h1>
 <h1> Hello there!</h1>
 <p> What's up?</p>
+<br />
 <p align="center">
 <img src=.assets/ytfzf.gif width="100%">
 </p>
