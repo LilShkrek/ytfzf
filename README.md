@@ -18,9 +18,15 @@
 <h1 align="center">
 	This is a little showcase
 </h1>
+<<<<<<< HEAD
 <a href="google.com">Google</a>
 <!-- This is a comment -->
 <p>Some p tag</p>
+=======
+<h1> Hello there!</h1>
+<p> What's up?</p>
+<br />
+>>>>>>> branch1
 <p align="center">
 <img src=.assets/ytfzf.gif width="100%">
 </p>
