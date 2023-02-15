@@ -19,6 +19,7 @@
 	This is a little showcase
 </h1>
 <h1> Hello there!</h1>
+<p> What's up?</p>
 <p align="center">
 <img src=.assets/ytfzf.gif width="100%">
 </p>
