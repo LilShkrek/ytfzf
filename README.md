@@ -26,6 +26,8 @@
 <!-- For the second commit -->
 <!-- For the third commit -->
 
+<p>For the first commit in clone</p>
+
 <p align="center">
 <img src=.assets/ytfzf.gif width="100%">
 </p>
