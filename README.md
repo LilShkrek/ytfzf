@@ -18,6 +18,7 @@
 <h1 align="center">
 	This is a little showcase
 </h1>
+<h1> Hello there!</h1>
 <p align="center">
 <img src=.assets/ytfzf.gif width="100%">
 </p>
