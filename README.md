@@ -19,6 +19,7 @@
 	This is a little showcase
 </h1>
 <a href="google.com">Google</a>
+<!-- This is a comment -->
 <p align="center">
 <img src=.assets/ytfzf.gif width="100%">
 </p>
